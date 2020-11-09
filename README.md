@@ -2,6 +2,8 @@
 ## Ensemble Techniques
 
 There are 2 types of ensemble techniques:
+
+
 **1. Bagging:** Also know as Booststrap Aggregation. (Voted method or majority based) 
 - Ramdomly selected data points from the datset.
 - Many estimators are used.
