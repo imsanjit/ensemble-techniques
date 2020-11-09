@@ -6,6 +6,7 @@ There are 2 types of ensemble techniques:
 - Ramdomly selected data points from the datset.
 - Many estimators are used.
 - than we take avg of all the estimators.
+
 **2. Booting:** Only one estimetor is use in this technique. we keep itreting the this process to low the error.
 
 
